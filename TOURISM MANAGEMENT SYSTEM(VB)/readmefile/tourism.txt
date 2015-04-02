@@ -1,0 +1,8 @@
+Tourism Management System:
+
+Project Description :
+
+         Front end		:	Visual Basic
+         Back end		:	MS Access
+         Description		:	This project allows the user to select the travel destination ,its corresponding transportation and accommodation arrangements  through online interface.Transportation is made available by land transport(car).Accomodation facilities are done based on preferences of people.And atlast,the bill is generated with discount offers for all the selections made. 
+
